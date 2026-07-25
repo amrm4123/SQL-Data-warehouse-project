@@ -109,7 +109,7 @@ Before onboarding a new source, the following areas are assessed:
 
 ```
 ├── datasets/           # Raw source files (CRM, ERP)
-├── scripts/
+├── Script/
 │   ├── bronze/         # Bronze layer stored procedures (ingestion)
 │   ├── silver/         # Silver layer stored procedures (cleansing/transformation)
 │   └── gold/           # Gold layer views (business logic)
